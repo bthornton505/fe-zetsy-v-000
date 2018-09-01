@@ -65,7 +65,9 @@ p {
   margin-bottom: 20px;
 }
 
-#press img
+#press img:hover {
+  tex
+}
 
 footer {
   text-align: right;
