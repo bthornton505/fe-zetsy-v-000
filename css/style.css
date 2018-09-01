@@ -61,6 +61,10 @@ p {
   border: 5px #ccc solid;
 }
 
+#press {
+  margin-bottom: 20px;
+}
+
 footer {
   text-align: right;
   background: #fff;
